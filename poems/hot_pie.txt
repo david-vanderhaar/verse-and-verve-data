@@ -1,6 +1,5 @@
 title: Hot Pie
 END_METADATA
-
 If I could gather ten thousand
 suns in the palm of
 my hand,
