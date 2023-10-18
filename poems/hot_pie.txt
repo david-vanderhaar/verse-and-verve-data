@@ -1,4 +1,5 @@
 title: Hot Pie
+created: 2023-08-28
 END_METADATA
 
 If I could gather ten thousand
