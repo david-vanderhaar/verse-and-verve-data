@@ -1,4 +1,3 @@
-METADATA
 title: Hot Pie
 END_METADATA
 
