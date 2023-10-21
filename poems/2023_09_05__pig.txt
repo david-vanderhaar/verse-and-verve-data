@@ -1,5 +1,6 @@
 title: pig
 created: 2023-09-05
+color: #e6734f
 END_METADATA
 
 I sat down to read my bible
