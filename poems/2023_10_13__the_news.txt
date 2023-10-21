@@ -1,4 +1,6 @@
-The News
+title: The News
+created: 2023-10-13
+END_METADATA
 
 I scrape at the
 edges of a crowd
