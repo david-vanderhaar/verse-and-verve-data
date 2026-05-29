@@ -1,0 +1,21 @@
+title: Mourning Code After AI
+created: 2026-05-29
+END_METADATA
+
+I wrote the following back in early 2023, in reponse to the overwhelming potential for change LLMs present to us. These thoughts are in dialogue with, and quoting from, an article titled "When programming is gone, will we like what's left?" written by Forrest Brazeal. (https://newsletter.goodtechthings.com/p/when-programming-is-gone-will-we).
+
+"When programming is gone, will we like what's left?"
+
+I'm not sure how I'll feel as the world changes in regards to my profession. Humanity has faced this before. I'm optimistic we can face it again, even if the change is exponentially higher in degree and speed.
+
+I appreciate the acknowledgement of what programming really is for many of us. It is creative, expressive, meditative. If it goes away or obsolesces such that I am no longer interested, I will be sad. I will mourn the loss of something I once loved to do. And I will move on. I will find a way to create and self-express. It is natural, I think. And from time to time I will revisit my old love for programming, either in memory or in person, with a text editor and an old computer client that can still compile javascript.
+
+Other Quotes That Stuck With Me:
+
+"If AI really lets you work faster and focus on more important things, but those things aren’t programming, will you be happy?"
+
+The joy of programming
+"Imagine digging into an algorithm on a whiteboard or a scrap of copy paper, feeling yourself disappearing deeper and deeper into the abstractions until you too become almost a symbolic construct. Inhabit that feeling of flow after you get the boilerplate code laid out and things begin to happen: screens are populating and commands are parsing and now you see a better way to modularize everything so you abstract out some components and feel the design click into place like the little tumblers in a safe. All built on the bedrock confidence that beneath the layers of abstraction, when you tell a computer to do something, it will do EXACTLY what you said—and if it doesn’t, then you or somebody in your toolchain has made a mistake and with enough patience you can trace that bug right back to its source and mount its thorax on a little pin. That profound satisfaction when the bug is dead and logic triumphs again. The pride of creation. The joy of self-expression in the medium you love."
+
+Mourning is okay
+"Yeah, you were lucky enough to live in that world, and if you were in the right place at the right time you even got paid unimaginable amounts of money to do it. How will you feel when it’s all over?"
