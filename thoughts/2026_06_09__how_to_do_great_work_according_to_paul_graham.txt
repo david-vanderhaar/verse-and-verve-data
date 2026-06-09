@@ -1,4 +1,4 @@
-title: How To Do Great Work
+title: How To Do Great Work According To Paul Graham
 created: 2026-06-09
 END_METADATA
 
