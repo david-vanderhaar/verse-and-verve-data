@@ -4,7 +4,7 @@ This text presents high level information of my personal use of LLMs with space 
 
 This document is primarily serving to keep myself sane in the midst of changes in our industry. I need a knife to cut through the noise, a horn to blast clearly over the hype, a guide to keep my work and personal experience centered on what matters, no matter how quickly the technology around changes.
 
-*
+---
 
 The Goal of Our Work
 
@@ -31,7 +31,7 @@ Enjoy the Process (Fulfilling Yourself)
 
 If we don’t enjoy our work, or at least the outcome of our work, can we sustain it at all? Can we continue to get stuff done well and improve upon the craft itself, if we are burnt out from the mechanics of the process?
 
-*
+---
 
 Rules to LLM By
 
@@ -44,7 +44,7 @@ Rules to LLM By
 - Use LLMs like a crow. Use it to build the tool that can repeat the work you would have just asked it to do ex nihilo.
 - There is always another person at the end of your work.
 
-*
+---
 
 Questions to Ask Oneself When Using LLMs
 
